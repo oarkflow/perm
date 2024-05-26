@@ -10,6 +10,7 @@ require (
 	github.com/oarkflow/gorm-adapter v0.0.7
 	github.com/oarkflow/govaluate v0.0.1
 	github.com/oarkflow/pkg v0.1.45
+	gopkg.in/yaml.v3 v3.0.1
 	gorm.io/gorm v1.25.10
 )
 
